@@ -1,4 +1,12 @@
 # Crime-Analysis-Project
+
+
+---
+
+[Download Crime Dataset](https://drive.google.com/file/d/1zMhOnwcNXpKCIi47Z494bqLU-M5Atiaq/view?usp=drive_link)
+
+---
+
 In this capstone project, we will use Python, specifically the PyMySQL library, to interact with a MySQL database in order to analyze and gain insights from crime data.
 The dataset includes information such as 
 DR NO,
@@ -15,84 +23,83 @@ Location,
 Latitude & 
 Longitude.
 
-[Download Crime Dataset](https://drive.google.com/file/d/1zMhOnwcNXpKCIi47Z494bqLU-M5Atiaq/view?usp=drive_link)
+---
 
+## Objectives:
 
-Objectives:
-
-1. Database Setup and Import :
+**1. Database Setup and Import :**
 
    - Create a MySQL database.
 
  - Load the provided crime dataset into the MySQL database.
 
-2. Database Connection :
+**2. Database Connection :**
 
    - Use PyMySQL to establish a connection to the database in Pycharm or VS code.
 
    - Verify the successful import of data in pycharm.
 
-3. Data Exploration:
+**3. Data Exploration:**
 
    - Retrieve basic statistics on the dataset, such as the total number of records and unique values in specific columns.
 
    - Identify the distinct crime codes and their descriptions.
 
 
-4. Temporal Analysis:
+**4. Temporal Analysis:**
 
    - Analyze the temporal aspects of the data.
 
    - Determine trends in crime occurrence over time.
 
-5. Spatial Analysis:
+**5. Spatial Analysis:**
 
    - Utilize the geographical information (Latitude and Longitude) to perform spatial analysis.
 
    - Visualize crime hotspots on a map.
 
-6. Victim Demographics:
+**6. Victim Demographics:**
 
    - Investigate the distribution of victim ages and genders.
 
    - Identify common premises descriptions where crimes occur.
 
-7. Status Analysis:
+**7. Status Analysis:**
 
    - Examine the status of reported crimes.
 
    - Classify crimes based on their current status.
 
+---
 
-Questions:
+## Questions:
 
-Spatial Analysis:
+**Spatial Analysis:**
 
 Where are the geographical hotspots for reported crimes?
 
  
 
-Victim Demographics:
+**Victim Demographics:**
 
 What is the distribution of victim ages in reported crimes?
 
 Is there a significant difference in crime rates between male and female victims?
 
  
-
-Location Analysis:
+**Location Analysis:**
 
 Where do most crimes occur based on the "Location" column?
 
  
 
-Crime Code Analysis:
+**Crime Code Analysis:**
 
 What is the distribution of reported crimes based on Crime Code?
 
- 
+ ---
 
-Tools and Libraries:
+**Tools and Libraries:**
 
 - PyCharm or Visual Studio Code for Python development.
 
@@ -100,7 +107,9 @@ Tools and Libraries:
 
 - Matplotlib and Seaborn for data visualization.
 
-Deliverables:
+---
+
+**Deliverables:**
 
 - Python scripts for database setup, data import, and data analysis.
 
