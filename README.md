@@ -15,6 +15,9 @@ Location,
 Latitude & 
 Longitude.
 
+[Download Crime Dataset](https://drive.google.com/file/d/1zMhOnwcNXpKCIi47Z494bqLU-M5Atiaq/view?usp=drive_link)
+
+
 Objectives:
 
 1. Database Setup and Import :
